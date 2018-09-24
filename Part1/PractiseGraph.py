@@ -18,6 +18,7 @@ g.add_edge(10,11)
 g.add_edge(11,12)
 g.add_edge(12,1)
 
+plt.title('Solve Me If You Can')
 nx.draw(g)
 
 plt.show()
